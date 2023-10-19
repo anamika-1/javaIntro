@@ -5,7 +5,7 @@ public class javaDataType {
         System.out.println(a);
         float b = 5.6F;
         System.out.println(b);
-        String name = "Anamika Jha";
+        String name = "Anamika";
         System.out.println(name);
 
     }
