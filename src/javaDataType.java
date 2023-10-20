@@ -1,7 +1,7 @@
 public class javaDataType {
     public static void main(String[] args){
         // primitive data type
-        //boolean - can be true / false
+        //boolean - can be true /false
         boolean flag = true;
         System.out.println(flag);
 
