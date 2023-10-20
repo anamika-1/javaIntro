@@ -21,7 +21,7 @@ public class javaDataType {
         //float - size 4byte / 32bits
         float floatValue = 5.6F;
         System.out.println(floatValue);
-        //double - size 8byte / 64bits =
+        //double - size 8byte / 64bits
         double doubleValue = 78576.73747;
         System.out.println(doubleValue);
 
